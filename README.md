@@ -14,6 +14,7 @@ docker pull [이미지명]
 docker rmi [이미지명] 
 ```
 ### 3. 컨테이너
+![](https://user-images.githubusercontent.com/61075048/151774366-b2ece034-3ec3-44d6-8f5c-35e8beac2d4e.png)
 - 컨테이너 실행
 ```
 docker exec -it [컨테이너명] /bin/sh
